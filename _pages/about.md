@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is nino and I am a first-year student at ENSEEIHT in Toulouse, France. Currently studying Computer Science, I want to pursue these studies in order to become an engineer in new technlogies.
+My name is nino and I am a first-year student at ENSEEIHT in Toulouse, France. Currently studying Computer Science, I want to pursue these studies in order to become an engineer in new technologies.
 
 My video presentation :
 ======
