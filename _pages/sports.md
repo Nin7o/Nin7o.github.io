@@ -1,1 +1,10 @@
+---
+layout: archive
+title: "Sports & other activities"
+permalink: /sports/
+author_profile: true
+redirect_from:
+  - /hobbies
+---
 
+Nothing yet to see here...
