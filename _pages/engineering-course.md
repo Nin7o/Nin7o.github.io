@@ -9,51 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+TIPE
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+My first engineering project is the one i have made during CPGE in a group of 3. Our goal was to conceive, design and produce a myoelectric hand prosthesis.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+![TIPE1]("/files/TIPE1")
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+While i worked on the whole project, the one I worked on the most was the design of the prosthesis and its control.
+
+This project allowed to learn about teamwork, communication, and speech since i've presented this project in front of a jury.
+
+The final prosthesis was fully operational, allows different movements and to grip heavy loads, that is to say to allow a person to regain autonomy thanks to an inexpensive and autonomous system
+
+![TIPE2]("/files/TIPE2")
