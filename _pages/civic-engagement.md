@@ -18,4 +18,5 @@ This project also teaches me a lot in terms of responsibility and commitment, wh
 
 Sulitest
 ======
-
+![Sulitest1](/files/SHS1.png)
+![Sulitest2](/files/SHS2.png)
