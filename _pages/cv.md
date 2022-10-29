@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+<button name="button" onclick="http://www.google.com">Click me</button>
+
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
