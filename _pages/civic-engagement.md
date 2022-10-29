@@ -1,1 +1,21 @@
 
+---
+layout: archive
+title: "Sustainability & Civic Engagement"
+permalink: /civic-engagement/
+author_profile: true
+redirect_from:
+  - /sustainability
+---
+
+{% include base_path %}
+
+Tutoring
+======
+Since the beginning of the school year 2022, I and two other friends from the school have volunteered to become tutors for two first-year CPGE students at Bellevue high school, where we ourselves did our CPGE.
+Our responsibility towards these students is obviously to help them with their lessons and exercises, to be at their disposal for questions to which they do not have the answer. Moreover, we accompany them and advise them in their study project thanks to our experience that we can transmit to them today.
+This project also teaches me a lot in terms of responsibility and commitment, which is why I am now grateful for being their tutor.
+
+Sulitest
+======
+
