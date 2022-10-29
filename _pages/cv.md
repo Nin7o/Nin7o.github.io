@@ -9,7 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-[Download Page](./product/download.html)
+<button onclick="location.href='http://www.google.com'" type="button">
+         www.example.com</button>
 
 Education
 ======
