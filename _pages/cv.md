@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<button name="button" onclick="http://www.google.com">Click me</button>
+[button url="http://www.google.com"]
 
 Education
 ======
