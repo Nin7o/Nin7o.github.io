@@ -4,16 +4,16 @@ main:
     url: /Engineering-course/
 
   - title: "International mobility"
-    url: /talks/    
+    url: /International-mobility/    
 
   - title: "Sustainability & Civic Engagement"
-    url: /teaching/    
+    url: /civic-engagment/    
     
   - title: "Sport & others"
-    url: /portfolio/
+    url: /sports/
         
   - title: "Career Development"
-    url: /year-archive/
+    url: /career-development/
     
   - title: "CV"
     url: /cv/
