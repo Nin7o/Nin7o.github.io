@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[button url="http://www.google.com"]
+[Download Page](./product/download.html)
 
 Education
 ======
