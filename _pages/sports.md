@@ -9,4 +9,4 @@ redirect_from:
 
 Capture The Flag
 ======
-![OverTheWire](/pictures/OverTheWire.png)
+![OverTheWire](/images/OverTheWire.png)
