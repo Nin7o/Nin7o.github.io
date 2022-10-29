@@ -10,7 +10,9 @@ redirect_from:
 {% include base_path %}
 
 <button onclick="location.href='http://www.google.com'" type="button">
-         www.example.com</button>
+         Download my CV</button>
+
+<a href="/CV.pdf" download>Click here to download</a>
 
 Education
 ======
