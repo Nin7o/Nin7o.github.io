@@ -11,4 +11,4 @@ redirect_from:
 
 ![CV](/files/CV-1.png)
 
-<a href="/CV.pdf" download>Click here to download my resume</a>
+<a href="/CV.pdf" download>Save my CV as a PDF</a>
