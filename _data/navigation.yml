@@ -1,5 +1,8 @@
 # main links links
 main:
+  - title: "Career Development"
+    url: /career-development/
+
   - title: "Engineering course"
     url: /engineering-course/
 
@@ -12,7 +15,6 @@ main:
   - title: "Sport & others"
     url: /sports/
         
-  - title: "Career Development"
-    url: /career-development/
+
     
 
