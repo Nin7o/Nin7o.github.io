@@ -18,7 +18,3 @@ Network
 ======
 
 Thanks to the MyJobGlasses Website, I have been able to reach out to professionals working in a field in which I could see myself working in the future. That's how I got in touch with Guillaume Laurent, an independent ios developer.
-
-Due to scheduling problems, our meeting had to be postponed to the 5th of November, so I'll post here my feelings about this meeting after this date
-
-![MJG](/files/conflict.png)
