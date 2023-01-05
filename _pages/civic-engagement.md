@@ -7,6 +7,17 @@ redirect_from:
   - /sustainability
 ---
 
+Ideation Day
+======
+
+My group for the ideation day will be made up of :  
+- Ayoub CANON  
+- Otman FARHAT  
+- Louis BASSET
+- Alan FRESCO  
+- Olivier BLOT  
+- Nino GAUTHIER
+
 {% include base_path %}
 
 Tutoring
