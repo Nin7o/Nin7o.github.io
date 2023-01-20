@@ -20,6 +20,11 @@ My group for the ideation day will be made up of :
 - Leonard Gaudin
 - Nathan Amyot
 
+
+our project : 
+
+![Ideationday](/ideationday.png)
+
 {% include base_path %}
 
 Tutoring
