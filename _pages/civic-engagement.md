@@ -17,6 +17,8 @@ My group for the ideation day will be made up of :
 - Alan FRESCO  
 - Olivier BLOT  
 - Nino GAUTHIER
+- Leonard Gaudin
+- Nathan Amyot
 
 {% include base_path %}
 
