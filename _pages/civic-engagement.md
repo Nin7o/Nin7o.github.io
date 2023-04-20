@@ -21,7 +21,7 @@ My group for the Journée Handicap will be made up of :
 
 our project : 
 
-![Handipark](/handipark.png)
+![Handipark](/HANDIPARK.png)
 
 
 
