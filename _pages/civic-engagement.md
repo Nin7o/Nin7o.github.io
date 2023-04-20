@@ -6,6 +6,24 @@ author_profile: true
 redirect_from:
   - /sustainability
 ---
+Journée Handicap
+======
+
+My group for the Journée Handicap will be made up of :  
+- Ayoub CANON  
+- Julien HUANG  
+- Louis BASSET
+- Alan FRESCO  
+- Ethan BOSWELL  
+- Nino GAUTHIER
+- Anishan SEBANATHAN
+- Nathan Amyot
+
+our project : 
+
+![Handipark](/handipark.png)
+
+
 
 Ideation Day
 ======
