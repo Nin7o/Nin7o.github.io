@@ -16,10 +16,10 @@ which helps understand my goals and motivations !
 The next step in my professional journey is my CV, and the people who I have talked to to precise the career I want to achieve in the future. 
 I have had the chance to talk to an independant IOS developer, which gave me a more precise idea of what I aim to regarding my professional career. 
 
-All of the informations regarding this are available on my ePortfolio, juste [here](https://nin7o.github.io/career-development)
+All of the informations regarding this are available on my ePortfolio, juste [here](https://nin7o.github.io/career-development).
 
 Last year, I have had the chance to travel to Japan for my first year internship. That travel was a amazing opportunity where I have been 
 able to work in a totally new environment, which helped me learn a lot, especially regarding human interactions, in a country where lots of people
 do not speak english. It also helped me improve my Japanese level.
 
-This trip enters my International Mobility, and you can find all the details of my intership through an internship report on [this page](https://nin7o.github.io/international-mobility)
+This trip enters my International Mobility, and you can find all the details of my intership through an internship report on [this page](https://nin7o.github.io/international-mobility).
