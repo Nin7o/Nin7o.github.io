@@ -8,7 +8,8 @@ redirect_from:
 ---
 
 First, to learn more about me, my skills and the studies I have achieved so far, I suggest you take a look at my LinkedIn profile ! 
-It contains all those informations, and interactions I have had with the professional world.
+It contains all those informations, and interactions I have had with the professional world. I also recommend you watch my presentation video on the homepage on this website,
+which helps understand my goals and motivations !
 
 [GAUTHIER Nino LinkedIn Profile](https://www.linkedin.com/in/ninogauthier/)
 
@@ -16,7 +17,6 @@ The next step in my professional journey is my CV, and the people who I have tal
 I have had the chance to talk to an independant IOS developer, which gave me a more precise idea of what I aim to regarding my professional career. 
 
 All of the informations regarding this are available on my ePortfolio, juste [here](https://nin7o.github.io/career-development)
-
 
 Last year, I have had the chance to travel to Japan for my first year internship. That travel was a amazing opportunity where I have been 
 able to work in a totally new environment, which helped me learn a lot, especially regarding human interactions, in a country where lots of people
