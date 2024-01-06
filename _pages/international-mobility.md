@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /international
 ---
-Language Travel - First Year Internship
+LV2 - Language Travel - First Year Internship
 ======
 ![japan](/images/japan.jpg)
 
@@ -28,3 +28,8 @@ This experience of the japanese culture was also really important for me, as I w
 If anyone is interested in doing a similar experience, I would recommend them to do it, as it is a really great opportunity to learn more about the world, and to learn more about yourself. 
 
 I would like to thank the [Caro Foresta](https://caro-foresta.com/index.php) team for welcoming us, and for helping us during our stay. I would also like to thank Miss Yoshiko, responsible for the language travel, for putting us in contact with the hotel, and for helping us during our stay. If I was able to enjoy this trip as much as I did, it is thanks to them.
+
+LV1 - Professional communication in english
+======
+
+Through my LV1 course, I've been preparing debates and meetings in english, which have helped me a lot in learning professional communication in english, as well as organization in companies.

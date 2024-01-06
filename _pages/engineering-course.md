@@ -13,7 +13,7 @@ Churros
 ======
 ![Churros](/images/churros.png)
 
-I contributed to the development of Churros with the [Net7](https://net7.dev/) devteam. Churros is a private PWA webapp, aiming to streamline the organization of school associative life. It provides a schedule, features to help clubs organize themselves, a ticketing services, and many other features !
+I contributed to the development of Churros with the [Net7](https://net7.dev/) devteam. Churros is a private PWA webapp, aiming to streamline the organization of school associative life. It provides a schedule, features to help clubs organize themselves, a ticketing service, and many other features !
 
 ![churros1](/images/churros1.png)
 
