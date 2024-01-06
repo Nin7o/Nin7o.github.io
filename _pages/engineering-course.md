@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+Churros
+======
+![Churros](/images/churros.png)
+
 TIPE
 ======
 
