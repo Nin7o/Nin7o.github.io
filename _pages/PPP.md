@@ -23,3 +23,11 @@ able to work in a totally new environment, which helped me learn a lot, especial
 do not speak english. It also helped me improve my Japanese level.
 
 This trip enters my International Mobility, and you can find all the details of my intership through an internship report on [this page](https://nin7o.github.io/international-mobility).
+
+Here is my PPP presentation ! 
+
+<object data="http://yoursite.com/the.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="http://yoursite.com/the.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
