@@ -12,7 +12,7 @@ Capitole du Libre
 ![CDL](/images/CDL.png)
 
 I have been a volunteer for the Capitole Du Libre convention in ENSEEIHT in 2023.
-This convention deals with free and open source software, and i was part of the Net7 (informatics club of ENSEEIHT) team to help people install and setup linux on their personal computers.
+This convention deals with free and open source software, and i was part of the net7 (informatics club of ENSEEIHT) team to help people install and setup linux on their personal computers.
 
 
 Toulouse Hacking Convention
