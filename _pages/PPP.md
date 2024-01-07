@@ -33,3 +33,8 @@ Here is my PPP presentation !
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://nin7o.github.io/PPP.pdf">Download PDF</a>.</p>
     </embed>
 </object>
+
+<object data="https://nin7o.github.io/PPP.pdf" 
+  width="800"
+  height="500"> 
+</object> 
