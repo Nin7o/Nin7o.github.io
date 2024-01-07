@@ -28,7 +28,7 @@ This trip enters my International Mobility, and you can find all the details of 
 
 Here is my PPP presentation ! 
 
-<object data="https://nin7o.github.io/PPP.pdf" type="application/pdf" width="1920px" height="1080px">
+<object data="https://nin7o.github.io/PPP.pdf" type="application/pdf" width=100% height=100%>
     <embed src="https://nin7o.github.io/PPP.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://nin7o.github.io/PPP.pdf">Download PDF</a>.</p>
     </embed>
