@@ -16,6 +16,8 @@ which helps understand my goals and motivations !
 The next step in my professional journey is my CV, and the people who I have talked to to precise the career I want to achieve in the future. 
 I have had the chance to talk to an independant IOS developer, which gave me a more precise idea of what I aim to regarding my professional career. 
 
+I also have here an example of a cover letter, made for an internship application to Amazon, Dublin.
+
 All of the informations regarding this are available on my ePortfolio, juste [here](https://nin7o.github.io/career-development).
 
 Last year, I have had the chance to travel to Japan for my first year internship. That travel was a amazing opportunity where I have been 

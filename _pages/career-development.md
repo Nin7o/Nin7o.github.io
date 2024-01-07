@@ -14,6 +14,37 @@ CV
 
 <a href="/CV.pdf" download>Click here to download my resume</a>
 
+Internship Application
+======
+
+Here is a internship offer from amazon : 
+
+[Job offer](https://www.linkedin.com/jobs/view/3747061626/?refId=80ce8644-96ad-4108-a49a-6c0500df74e2&trackingId=QheJzHF%2FSJatmPMyYfIVzg%3D%3D)
+
+
+<ins>Cover Letter</ins>
+
+Subject: Application for Amazon Technology Internship in Dublin
+
+Dear Hiring Manager,
+
+I am very interested by the Technology Internship opportunity at Amazon in Dublin. My passion for innovative and cutting edge technologies being able to contribute to challenges is very exciting, and I look forward the prospect 
+of joining a dynamic environment at Amazon.
+
+The importance around the customer satisfaction is what give me a positive view of the compagny, and the idea of being able to work with experience professionals is directly compatible with my careers aspirattions. I am particularly excited by the perspective to work on large scale distributed systems.
+
+Having a backround in distributed data computing in java, I am confident in my ability to fulfill Amazon's mission, using agile methods that I've learned during my studies to produce high-quality software.
+
+The chance of having a mentor is also one of the resaons why I find this opportunity amazing : the experience provided by a mentor, with a long-term experience in the company will as sure allow me to greatly develop my skills.
+
+I am available for a 3 month internship, and I am also able to move to work on site in the city of Dublin. Having more than a remote experience is really important for me, and I am eager to bring my skills and dynamism to Amazon
+
+Thank you for considering my application. I look forward to the opportunity to discuss more about how my skills and experience aligne with the interniship requirements.
+
+Sincerely,
+
+GAUTHIER Nino
+
 Network
 ======
 
