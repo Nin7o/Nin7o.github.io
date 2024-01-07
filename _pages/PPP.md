@@ -26,15 +26,10 @@ do not speak english. It also helped me improve my Japanese level.
 
 This trip enters my International Mobility, and you can find all the details of my intership through an internship report on [this page](https://nin7o.github.io/international-mobility).
 
-Here is my PPP presentation ! 
+Here is my PPP presentation ! <a href="/PPP.pdf" download>Click here to download.</a>
 
 <object data="https://nin7o.github.io/PPP.pdf" type="application/pdf" width=1920px height=1080px>
     <embed src="https://nin7o.github.io/PPP.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://nin7o.github.io/PPP.pdf">Download PDF</a>.</p>
     </embed>
 </object>
-
-<object data="https://nin7o.github.io/PPP.pdf" 
-  width="800"
-  height="500"> 
-</object> 
