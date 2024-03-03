@@ -36,5 +36,3 @@ More on the project here : [UART](https://eportfolio.nin7o.net/UART)
 n7OS
 ====
 A work-in-progress small operating system written in C and assembly from a small base.
-
-More on the project here : [n7OS](https://eportfolio.nin7o.net/n7OS)
