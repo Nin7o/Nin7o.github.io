@@ -1,8 +1,7 @@
 ---
-layout: archive
 title: "Minishell"
 permalink: /minishell/
-author_profile: true
+author_profile: false
 redirect_from:
   - /minishell
 ---
@@ -12,7 +11,7 @@ Download an archive of the project : [Click here](/files/minishell.zip)
 Dynamic allocated list for job storage implementation : 
 ==
 
-```C
+```c
 #include "job.h"
 
 // Nombre de processus en cours

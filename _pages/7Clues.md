@@ -1,8 +1,7 @@
 ---
-layout: archive
 title: "7Clues"
 permalink: /7Clues/
-author_profile: true
+author_profile: false
 redirect_from:
   - /7Clues
 ---
