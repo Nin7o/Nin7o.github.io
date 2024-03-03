@@ -172,7 +172,7 @@ job* get_job(pid_t pid) {
 
 Main and functions :
 ==
-```C
+```c
 /*
  * GAUTHIER Nino
  * 1A - J - SN
